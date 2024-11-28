@@ -1,0 +1,18 @@
+# Composer dependencies
+/vendor
+
+# Blade cache files
+/cache
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node modules (if applicable)
+node_modules
+
+# Environment files
+.env
+
+# Log files
+*.log
