@@ -1,0 +1,13 @@
+# Interval Cycler
+
+A PHP-based project for generating and analyzing musical intervals and chords, featuring Blade templating for dynamic rendering.
+
+## Features
+- Random pitch row generation.
+- Interval and chord processing.
+- Blade templating engine for views.
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/interval-cycler.git
